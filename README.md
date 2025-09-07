@@ -70,5 +70,5 @@ Method: Practiced resilience, adaptability, self-driven learning, and collaborat
 Observation: Progress isn’t just technical — personality shapes outcomes.  
 Result: Built a mindset to persist through challenges and keep moving forward.  
 
-📖 End of log — for now.  
+End of log — for now.  
 More modules will be compiled, more entries will be written.  
